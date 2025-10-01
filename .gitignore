@@ -3,3 +3,4 @@ venv/
 pages/
 postAI/
 ocr_outputs/
+__pycache__
